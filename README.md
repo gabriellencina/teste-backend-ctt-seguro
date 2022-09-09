@@ -24,7 +24,7 @@ Principais dificuldades:
 1 - Configuração de ambiente via docker com o db
 2 - Manipulação de dados
 
-Solucação:
+Solução:
 Buscar entender como funciona a manipulação via HTTP com os métodos e querys via código php.
 Como ainda sou iniciante no área do backend, vou buscar ainda mais aprimorar minhas dificuldades.
 
