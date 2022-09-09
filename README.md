@@ -21,8 +21,8 @@ _Responda aqui quais foram suas dificuldades e explique a sua solução
 Busquei concluir o teste com as minhas experiências com backend, tive um pouco de dificuldade, pois tive dois dias para conseguir desenvolver, por isso não consegui entregar finalizado no tempo correto.
 
 Principais dificuldades:
-1 - Configuração de ambiente via docker com o db
-2 - Manipulação de dados
+ Configuração de ambiente via docker com o db e manipulação de dados.
+
 
 Solução:
 Buscar entender como funciona a manipulação via HTTP com os métodos e querys via código php.
