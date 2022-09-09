@@ -16,9 +16,8 @@ Caso você já tenha alguma experiência com Docker ou queira se aventurar, inse
 Caso ache a tarefa muito simples e queira implementar algo a mais, será muito bem visto. Nossa sugestão é implementar novos filtros (ex: `order_by`, `limit`, `offset`), outros métodos REST (`GET/{id}`, `POST`, `DELETE`, `PUT`, `PATCH`), testes unitários etc. Só pedimos que, caso faça algo do tipo, nos explique na _Resposta do participante_ abaixo.
 
 # Resposta do participante
-_Responda aqui quais foram suas dificuldades e explique a sua solução_
+_Responda aqui quais foram suas dificuldades e explique a sua solução
 
-#ultimo teste back and - 
 Busquei concluir o teste com as minhas experiências com backend, tive um pouco de dificuldade, pois tive dois dias para conseguir desenvolver, por isso não consegui entregar finalizado no tempo correto.
 
 Principais dificuldades:
